@@ -13,7 +13,7 @@ I'm a seasoned **Software Engineer** with over 8 years of experience in backend 
 
 ## 💼 Experience
 
-### [TelescopeLabs](https://telescope-labs.com) - Senior Software Developer
+### [TelescopeLabs](https://telescopelabs.io) - Senior Software Developer
 _09.2022 - Present_
 
 - Integrated blockchain systems to analyze and process data.
