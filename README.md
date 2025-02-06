@@ -13,19 +13,24 @@ I'm a seasoned **Software Engineer** with over 8 years of experience in backend 
 
 ## 💼 Experience
 
-### [TelescopeLabs](https://telescopelabs.io) - Senior Software Developer
-_09.2022 - Present_
+### [Talya](https://talyabilisim.com) - Software Enginneer
+_09.2022 - 10.2024_
+
+- ...
+
+### [TelescopeLabs](https://telescopelabs.io) - Senior Software Enginneer
+_09.2022 - 10.2024_
 
 - Integrated blockchain systems to analyze and process data.
 - Developed services to integrate third-party data warehouses, allowing SQL queries and data models for various tasks.
   
-### [Microsoft](https://microsoft.com) - Senior Software Developer
+### [Microsoft](https://microsoft.com) - Senior Software Enginneer
 _02.2022 - 08.2023_
 
 - Worked on the Moderation team, developing services and dashboards.
 - Leveraged Kusto queries and Azure services for data analysis and reporting.
 
-### [Hotech](https://hotech.systems) - Software Developer
+### [Hotech](https://hotech.systems) - Software Enginneer
 _06.2016 - 02.2022_
 
 - Developed integrations for hotel management systems, working with UBL e-invoices and channel managers.
