@@ -14,7 +14,7 @@ I'm a seasoned **Software Engineer** with over 8 years of experience in backend 
 ## 💼 Experience
 
 ### [Talya](https://talyabilisim.com.tr) - Software Enginneer
-_09.2022 - 10.2024_
+_02.2025 - Present_
 
 - ...
 
